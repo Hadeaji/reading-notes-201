@@ -1,9 +1,9 @@
 # Code 201 Reading Notes
 #### Here i submit my assignments for the 201 coding course
 >  ***Please make yourself home***
-<br>
-<br>
-<br>
+
+![Jakie](Jackie-Chan.jpg)
+
 
 | **Number** | **Name and Link** |
 |------------|-------------------|
@@ -22,4 +22,4 @@
 | *Read13* |               |
 | *Read14* |               |
 | *Read15* |               |
-![Jakie](Jackie-Chan.jpg)
+
