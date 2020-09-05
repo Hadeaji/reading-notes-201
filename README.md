@@ -22,6 +22,4 @@
 | *Read13* |               |
 | *Read14* |               |
 | *Read15* |               |
-
-
 ![Jakie](Jackie-Chan.jpg)
