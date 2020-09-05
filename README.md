@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
-### Here i submit my assignment for the 201 coding course
->  **Please make yourself home**
+#### Here i submit my assignments for the 201 coding course
+>  ***Please make yourself home***
 
 | **Number** | **Name and Link** |
 |------------|-------------------|
@@ -19,3 +19,5 @@
 | *Read13* |               |
 | *Read14* |               |
 | *Read15* |               |
+
+
