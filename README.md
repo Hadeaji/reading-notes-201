@@ -7,8 +7,8 @@
 
 | **Number** | **Name and Link** |
 |------------|-------------------|
-| *Read01* |               |
-| *Read02* |               |
+| *Read01* |[Introductory HTML and JavaScript](https://hadeaji.github.io/reading-notes/class-01)|
+| *Read02* |[HTML,CSS and JavaScript Basic Instructions](https://hadeaji.github.io/reading-notes/class-02)|
 | *Read03* |               |
 | *Read04* |               |
 | *Read05* |               |
