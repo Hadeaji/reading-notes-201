@@ -120,7 +120,7 @@ Using the 960.GS Grid
 
 this layout dividing page into 12 columns from 960 pixle
 
-![ex](read04-4.png)
+![ex](read4-4.png)
 
 it also provide other templates you can download to help you design your website
 it handles the whole layout you just have to set the fonts ,colors ,backgrounds ,margins and paddings
@@ -141,7 +141,7 @@ EX:
 
 Example for basic functions:
 
-![ex](read04-5.png)
+![ex](read4-5.png)
 
 When you want to create one
 
@@ -150,7 +150,7 @@ When you want to create one
 - Braces
 - Curly braces holds the statments
 
-![ex](read04-6.png)
+![ex](read4-6.png)
 
 And you you want it call it by name
 From the example:
