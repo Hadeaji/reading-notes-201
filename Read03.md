@@ -143,4 +143,4 @@ How does Loops Work:
 
 It will run tell the condition Is fulfilled
 
-![Ex](read3-6.png)
+![Ex](Read3-6.png)
