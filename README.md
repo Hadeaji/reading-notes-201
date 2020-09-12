@@ -12,7 +12,7 @@
 | *Read03* |[HTML Lists, CSS Boxes, JS Control Flow](https://hadeaji.github.io/reading-notes/Read03)|
 | *Read04* |[HTML Links, CSS Layout, JS Functions](https://hadeaji.github.io/reading-notes/read04)|
 | *Read05* |[HTML Images; CSS Color & Text](https://hadeaji.github.io/reading-notes/read05)|
-| *Read06* |               |
+| *Read06* |[JS Object Literals; The DOM](https://hadeaji.github.io/reading-notes/Read06)|
 | *Read07* |               |
 | *Read08* |               |
 | *Read09* |               |
