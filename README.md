@@ -15,7 +15,7 @@
 | *Read06* |[JS Object Literals; The DOM](https://hadeaji.github.io/reading-notes/Read06)|
 | *Read07* |[HTML Tables; JS Constructor Functions](https://hadeaji.github.io/reading-notes/Read07)|
 | *Read08* |[More CSS Layout(CSS Revision)](https://hadeaji.github.io/reading-notes/Read08)|
-| *Read09* |               |
+| *Read09* |[Forms and JS Events](https://hadeaji.github.io/reading-notes/Read09)|
 | *Read10* |               |
 | *Read11* |               |
 | *Read12* |               |
