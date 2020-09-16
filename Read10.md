@@ -57,7 +57,7 @@ Two phases of excuting
 the context have it's own variables and function that can acsses them
 it can also get to all it's parent, grand parent.... variables
 
-![ex](read10-1.png)
+![ex](Read10-1.png)
 
 ## Understanding Errors
 
@@ -66,7 +66,7 @@ It  will stop working and does not continue to that next function ...
 
 ## Error Objects
 
-![ex](read10-2.png)
+![ex](Read10-2.png)
 
 
 ## Error Objects Continued
