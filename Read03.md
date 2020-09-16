@@ -131,7 +131,6 @@ Each case indicates a possible value for this variable and the code that should 
 **TRUTHY & FALSY VALUES**
 Due to type coercion, every value in JavaScript can be treated as if it were true or false.
 
-
 **LOOPS**
 How does Loops Work:
 
@@ -143,4 +142,4 @@ How does Loops Work:
 
 It will run tell the condition Is fulfilled
 
-![Ex](Read3-6.png)
+![Ex](read3-6.png)

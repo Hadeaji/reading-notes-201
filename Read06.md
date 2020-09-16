@@ -147,3 +147,5 @@ Validate Input
 - Dont allow visitors to write html or java
 - Double-check Validation on the server before displaying user content/storing it in a database.
 This is important because users could bypass validation in the browser by turning JavaScript off. 
+
+
