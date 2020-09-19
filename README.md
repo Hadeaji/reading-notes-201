@@ -17,7 +17,7 @@
 | *Read08* |[More CSS Layout(CSS Revision)](https://hadeaji.github.io/reading-notes/Read08)|
 | *Read09* |[Forms and JS Events](https://hadeaji.github.io/reading-notes/Read09)|
 | *Read10* |[JS Debugging](https://hadeaji.github.io/reading-notes/Read10)|
-| *Read11* |               |
+| *Read11* |[Assorted Topics](https://hadeaji.github.io/reading-notes/Read11)|
 | *Read12* |               |
 | *Read13* |               |
 | *Read14* |               |
