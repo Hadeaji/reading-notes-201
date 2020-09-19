@@ -82,12 +82,12 @@ and `:active`
 
 how to make gradient background color 
 
-![ex](Read11-1.jpg)
+![ex](Read11-1.png)
 
 
 Contrast Of The Background Image
 
-![ex](Read11-2.jpg)
+![ex](Read11-2.png)
 
 
 ## Search Engine Optimization (SEO)
@@ -152,7 +152,7 @@ The code does not alter the appearance of your web pages
 
 #### How Many People Are Coming to Your Site?
 
-![ex](Read11-3.jpg)
+![ex](Read11-3.png)
 
 It also tells you What Are Your Visitors Looking At the most from your pages and whish is being the lowest so you will cosider improving it
 
