@@ -20,5 +20,5 @@
 | *Read11* |[Assorted Topics](https://hadeaji.github.io/reading-notes/Read11)|
 | *Read12* |[Docs for the HTML `<canvas>` Element & Chart.js](https://hadeaji.github.io/reading-notes/Read12)|
 | *Read13* |[Local Storage](https://hadeaji.github.io/reading-notes/Read13)|
-| *Read14* |               |
-| *Read15* |               |
+| *Read14a* |[CSS Transforms, Transitions, and Animations](https://hadeaji.github.io/reading-notes/Read14a)|
+| *Read14b* |[What Google Learned About Teams](https://hadeaji.github.io/reading-notes/Read14b)|
